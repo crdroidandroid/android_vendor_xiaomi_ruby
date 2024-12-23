@@ -1459,7 +1459,6 @@ PRODUCT_PACKAGES += \
     libmialgo_sd \
     libmialgo_utils \
     libmialgoengine \
-    libmialgoengine2 \
     libmipc \
     libmiphone_capture_bokeh \
     libmiphone_preview_bokeh \
